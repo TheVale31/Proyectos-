@@ -1,0 +1,118 @@
+header{
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  background-color: #d719e5;
+}
+.logo{
+  width: 155px;
+  height: 138px;
+  border-radius: 74px;
+  margin-left: 5%;
+}
+#menu-var{
+  margin-top:5%;
+  width: 50%;
+  font-family: 'Courgette',cursive;
+  text-align: center;
+  margin-left: 25%;
+  color:black;
+  font-size:1.3em;
+
+}
+.menu-option{
+  color:#000;
+  text-decoration: none;
+  margin-left: 5%
+}
+
+
+Form{
+  width: 50%;
+ 
+}
+.enviar{
+  margin-left: 73%;
+}
+.contacto{
+  background-color:#F30C7F;
+  width: auto;
+  text-align: center;
+  font-family: 'Courgette',cursive;
+
+}
+.buy{
+  text-align: center;
+}
+.buy-content{
+  height: 150px;
+  display: flex;
+  padding: 1%;
+  background: #0C7FF3;
+}
+
+.buy-content-option{
+  color: aliceblue;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 5px;
+}
+
+.home-content{
+  background-color:#F6DF09 ;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+}
+.home-content h5{
+  font-family: 'Dancing Script', cursive;
+  font-size:3.3em;
+  margin-left: 14%;
+  margin-top: 3%;
+}
+.home-content h4{
+  font-size:4.3em;
+  font-family: 'Dancing Script', cursive;
+  margin-left: 4%;
+  
+  
+}
+.logo-content{
+  margin-bottom: 15%;
+  padding: 0px;
+  width: 659px;
+  height: 107vh;
+  margin-left: 37%;
+  border-radius: 50%;
+}
+
+.pin{
+  width: 50vh;
+  height: 35vh; ;
+}
+.fotos{
+  background-color: #000;
+  padding: 2px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style: none;
+  margin-left: 6%;
+  margin-right: 2%;
+}
+
+.precios{
+  background-color: #d719e5;
+  width: 150px;
+  width: 313px;
+  list-style: none;
+  margin-left: 35%;
+  border-radius: 10px;
+  
+}
+
+section{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
